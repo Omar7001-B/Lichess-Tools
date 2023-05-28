@@ -4,13 +4,13 @@ Welcome to the Lichess Enhancement Scripts repository! This collection of JavaSc
 
 ## Scripts
 
-### [Switch Pieces Script](./Switch-Piece-Set)
+### 📂[Switch Pieces Script](./Switch-Piece-Set)
 This script is a userscript that allows you to show or hide chess pieces on the Lichess board with a single key press. It provides a convenient way to customize your board appearance according to your preferences.
 
-### [Lichess Chess Board Time Alert](./Lichess-Time-Alert)
+### 📂[Lichess Chess Board Time Alert](./Lichess-Time-Alert)
 The Lichess Chess Board Time Alert script is a Tampermonkey script that adds a red color filter to the chessboard on Lichess when your bottom clock time is less than the top clock time. This visual cue serves as a time alert, helping you stay aware of your time management during games.
 
-### [Lichess Analysis Board Automation](./Lichess-Analysis-Board-Automation)
+### 📂[Lichess Analysis Board Automation](./Lichess-Analysis-Board-Automation)
 This Tampermonkey script automates the process of requesting a computer analysis on Lichess after finishing a game. It saves you the manual steps of opening the analysis board and clicking the request analysis button, making your post-game analysis more convenient and efficient.
 
 ## Installation
